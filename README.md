@@ -5,7 +5,9 @@ This repository contains the implementation for automated endocardium (Endo) and
 * Introducing a new loss function based on level set method.
 * Building the end-to-end model for multiphase segmentation based on U-Net architecture
 ![model](image/model.png)
-
+## Results
+![table1](image/table1.png)
+![table2](image/table2.png)
 ## Citation
 If you find this reference implementation useful in your research, please consider citing:
 ```
